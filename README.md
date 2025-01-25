@@ -62,5 +62,3 @@ Hi</br>I'm Matheus
 <br>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-F-M&theme=github_dark)
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-F-M&theme=dark)
